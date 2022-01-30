@@ -1,0 +1,5 @@
+{
+  "elixirLinter.useStrict": true,
+  "elixirLS.dialyzerEnabled": false,
+  "elixirLS.suggestSpecs": false
+}
