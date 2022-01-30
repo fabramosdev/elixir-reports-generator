@@ -129,7 +129,7 @@ Relatório do alimento mais consumido:
 
 ## Screenshots
 
-![App Screenshot]("./.github/reportsgenerator.png")
+<img src="./.github/reportsgenerator.png" alt="MyOs" />
 
 
 ## Autores
